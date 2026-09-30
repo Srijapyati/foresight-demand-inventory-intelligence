@@ -1,0 +1,21 @@
+SKU,ProductName,Category,UnitPrice,UnitCost,CurrentStock,SafetyStock,ReorderPoint,LeadTimeDays,HoldingCostAnnual,OrderingCost,Supplier,WarehouseLocation
+LIV-SOFA-01,Nordic Fabric Sofa 3-Seater,Living & Furniture,899.0,455.06,189,30,89,10,81.91,100.0,Supplier-Beacon,WH-Central
+LIV-TABL-02,Minimalist Oak Coffee Table,Living & Furniture,299.0,177.19,339,21,32,14,31.89,50.0,Supplier-Alpha,WH-West
+LIV-CHAIR-03,Ergonomic Accent Lounge Chair,Living & Furniture,199.0,111.4,108,28,89,7,20.05,75.0,Supplier-Apex,WH-North
+LIV-SHELF-04,Modular Floating Wall Shelf,Living & Furniture,120.0,64.78,72,34,31,7,11.66,100.0,Supplier-Crown,WH-West
+LGT-PNDT-10,Industrial Brass Pendant Light,Lighting,149.0,70.54,283,49,76,14,12.7,75.0,Supplier-Alpha,WH-Central
+LGT-LAMP-11,Dimmable Ceramic Table Lamp,Lighting,89.0,42.13,21,18,35,7,7.58,75.0,Supplier-Delta,WH-West
+LGT-WALL-12,Modern Sconce Wall Fixture,Lighting,75.0,34.4,237,48,73,7,6.19,75.0,Supplier-Crown,WH-East
+LGT-STRIP-13,Smart RGB LED Ambient Strip,Lighting,45.0,26.1,209,35,69,14,4.7,50.0,Supplier-Apex,WH-West
+DEC-VASH-20,Handcrafted Ceramic Flower Vase,Home Decor,55.0,29.71,299,39,55,21,5.35,50.0,Supplier-Alpha,WH-North
+DEC-MIRR-21,Round Brass Framed Wall Mirror,Home Decor,135.0,75.09,84,38,38,21,13.52,50.0,Supplier-Crown,WH-Central
+DEC-RUG-22,Bohemian Handwoven Wool Rug,Home Decor,240.0,108.74,100,49,37,10,19.57,100.0,Supplier-Alpha,WH-West
+DEC-ART-23,Abstract Canvas Wall Art Set,Home Decor,110.0,65.5,250,42,70,21,11.79,100.0,Supplier-Alpha,WH-Central
+KTC-COOK-30,Non-Stick Cast Iron Skillet Set,Kitchenware,160.0,91.98,52,37,77,14,16.56,75.0,Supplier-Delta,WH-West
+KTC-CUTL-31,Stainless Steel Chef Knife Set,Kitchenware,95.0,45.78,233,15,64,14,8.24,100.0,Supplier-Delta,WH-West
+KTC-DISH-32,Porcelain Dinnerware 16-Piece,Kitchenware,130.0,62.05,276,40,34,10,11.17,100.0,Supplier-Beacon,WH-North
+KTC-MUG-33,Matte Stoneware Coffee Mugs,Kitchenware,35.0,16.71,61,46,80,7,3.01,100.0,Supplier-Alpha,WH-Central
+BED-SHET-40,100% Egyptian Cotton Sheet Set,Bed & Bath,115.0,57.0,115,44,33,21,10.26,50.0,Supplier-Delta,WH-West
+BED-PILL-41,Memory Foam Ergonomic Pillow,Bed & Bath,65.0,34.37,48,27,65,10,6.19,100.0,Supplier-Beacon,WH-West
+BTH-TWEL-42,Organic Turkish Bath Towels,Bed & Bath,48.0,24.71,85,20,71,14,4.45,75.0,Supplier-Beacon,WH-Central
+BTH-MAT-43,Quick-Dry Diatomite Bath Mat,Bed & Bath,38.0,18.76,250,47,91,7,3.38,50.0,Supplier-Alpha,WH-West
